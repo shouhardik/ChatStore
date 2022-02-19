@@ -31,4 +31,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ![image](https://user-images.githubusercontent.com/60508616/154811591-0ec7a1d5-d6ae-413f-93e0-2b33a70289f3.png)
 
+![Uploading image.png…]()
+
 ![image](https://user-images.githubusercontent.com/60508616/154811520-df50a48d-e056-4135-93b8-f7eca3f4685c.png)
